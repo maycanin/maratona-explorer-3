@@ -79,7 +79,7 @@
   }
   
   .whatsapp {
-    display: flex;
+    display: block;
     justify-content: center;
     grid-auto-flow: align;
     align-items: center;
