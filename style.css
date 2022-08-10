@@ -81,6 +81,6 @@
   .whatsapp {
     display: flex;
     justify-content: center;
-    grid-auto-flow: column;
+    grid-auto-flow: align;
     align-items: center;
   }
