@@ -82,6 +82,7 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    margin-botton: 10px;
   }
   .text {   
     padding-top: 10px;
